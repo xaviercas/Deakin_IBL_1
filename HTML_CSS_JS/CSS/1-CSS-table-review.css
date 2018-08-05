@@ -1,0 +1,15 @@
+.custom-grid{
+    padding: 0 1em;
+}
+
+table {
+    border-collapse: collapse;
+}
+th,
+td {
+    padding: .2em;
+    border: 1px solid paleturquoise;
+}
+tbody tr:nth-child(2n+1) {
+    background: paleturquoise;
+}
